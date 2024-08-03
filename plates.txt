@@ -1,0 +1,9 @@
+47HOM606,Tek,Male,White,Black,Sedan,,low,None
+44XSA836,Tek,Male,White,Graphite,Sedan,,low,None
+02IWE929,LS CIA,Male,White,Red,Sedan,,low,None
+86ZWG573,LS CIA,Male,White,Graphite,Sedan,,low,None
+69WOT752,LSCPD,Male,White,Graphite,Sedan,,low,None
+
+LSPDNTF1,REDACTED,Male,White,Graphite,Sedan,,low,None
+LSPDNTF2,REDACTED,Male,White,Graphite,Sedan,,low,None
+NORESIST,REDACTED,Male,White,Graphite,Sedan,,low,None
